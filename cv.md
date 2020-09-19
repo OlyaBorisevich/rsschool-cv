@@ -26,3 +26,11 @@ I try to find new tasks and solve them, so I constantly gain new experience and 
 2. https://olyaborisevich.github.io/my-test-works/e-stado/ - test task for Botyan A. I. / Lead Me. It was necessary to make a step-by-step quiz, without adaptive, with sending data to the mail (these files are not executed on github pages).
 3. https://olyaborisevich.github.io/my-test-works/marvis/ - test task for Dejneka A. L. adaptive, it was Necessary to make a block of the site with the use of variables vw.
 4. https://olyaborisevich.github.io/my-test-works/quotes/ - only desktop, the layout using the css grid.
+
+## Education
+2017 – Belarusian State Technological University “Specialization: General technology of printing production”
+2019 – BelHard academy: «Modern Front-End using JavaScript and HTML5»
+2020 – Frontendblock: «Marathon Grid CSS»
+2020 – Frontendblock: «Marathon Flexbox CSS»
+
+## 	English: A2
